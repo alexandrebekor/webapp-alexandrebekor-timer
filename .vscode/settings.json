@@ -1,0 +1,13 @@
+{
+  "editor.fontSize": 14,
+  "terminal.integrated.fontSize": 14,
+
+  // eslint
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+
+  // prettier
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
