@@ -87,7 +87,6 @@ export const SeparatorContainer = styled.div`
 
 export const ButtonCountdownContainer = styled.button`
   width: 100%;
-  padding: 1rem 0px;
   border: 0;
   border-radius: 8px;
 
